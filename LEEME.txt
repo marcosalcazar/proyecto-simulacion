@@ -1,8 +1,14 @@
-Instalación en Windows:
+Instalaciï¿½n en Windows:
 =======================
 
-0) Obviamente, Python instalado (versión utilizada: 2.7.1)
+0) Obviamente, Python instalado (versiï¿½n utilizada: 2.7.1)
 1) Descargar e instalar numpy de https://pypi.python.org/pypi/numpy para Python2.7
 2) Descargar e instalar scipy de http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipy para Python2.7
 3) 
+
+Instalacion Linux-Ubuntu
+========================
+
+sudo apt-get install python-numpy python-scipy python-matplotlib python-simpy
+
 
