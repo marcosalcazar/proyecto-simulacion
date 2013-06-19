@@ -1,0 +1,8 @@
+Instalación en Windows:
+=======================
+
+0) Obviamente, Python instalado (versión utilizada: 2.7.1)
+1) Descargar e instalar numpy de https://pypi.python.org/pypi/numpy para Python2.7
+2) Descargar e instalar scipy de http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipy para Python2.7
+3) 
+
